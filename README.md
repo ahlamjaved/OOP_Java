@@ -1,2 +1,3 @@
-# Intro to Objecgt Oriented Programming- Java
+# Intro to Object Oriented Programming- Java
 MATC ITDEV-110
+
